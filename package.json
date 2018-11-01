@@ -1,0 +1,22 @@
+{
+  "name": "gpx_generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a062670/gpx_generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a062670/gpx_generator/issues"
+  },
+  "homepage": "https://github.com/a062670/gpx_generator#readme",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
